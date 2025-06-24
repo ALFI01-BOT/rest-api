@@ -1,23 +1,19 @@
 {
-  "name": "Api Whatsapp Wafa Offc",
-  "version": "v3.0.0",
-  "description": "Beli Pt VVIP,murbug private, murbug public just call me harga mayan mahal.",
+  "name": "Api Whatsapp All Hosting",
+  "version": "v1.0.0",
+  "description": "Simple Api bot whatsapp",
   "header": {
     "status": "Active Now!"
   },
   "apiSettings": {
-    "creator": "Wafa Hosting", 
+    "creator": "All Hosting", 
     "apikey": ["kontol"]
   },
   "links": [
     {
-      "name": "Wa Utama",
-      "url": "https://wa.me/6288224838151"
+      "name": "Wa Utama All Hosting",
+      "url": "https://wa.me/6283116147036"
     },
-    {
-      "name": "Wa Utama",
-      "url": "https://wa.me/6285883745026"
-    }
   ],
   "categories": [
     {
